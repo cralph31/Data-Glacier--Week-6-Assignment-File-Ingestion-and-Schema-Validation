@@ -1,7 +1,9 @@
-file:
-  separator: "|"
-  columns:
-    - name: Feature1
-    - name: Feature2
-    - name: Feature3
-    - name: Label
+columns:
+- name: Feature1
+  type: float
+- name: Feature2
+  type: float
+- name: Feature3
+  type: float
+- name: Label
+  type: string
