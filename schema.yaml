@@ -1,0 +1,7 @@
+file:
+  separator: "|"
+  columns:
+    - name: Feature1
+    - name: Feature2
+    - name: Feature3
+    - name: Label
